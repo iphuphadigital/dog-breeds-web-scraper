@@ -12,7 +12,10 @@
     "Web Scraper",
     "Dog Breeds"
   ],
-  "author": "",
+  "author": {
+    "name": "Luthando Allistair Vilakazi",
+    "email": "allistair.vilakazi@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^13.3.1"
